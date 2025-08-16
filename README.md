@@ -49,8 +49,9 @@ An advanced **AI-powered research paper recommendation system** that analyzes 12
 ---
 
 ## Dataset
-([url](https://www.kaggle.com/datasets/renukaoladhri/arxivr/data))
+([arXiv dataset link](https://www.kaggle.com/datasets/renukaoladhri/arxivr/data))
 
+---
 ## Technical Implementation
 
 ### 1. **Data Collection & Processing**
